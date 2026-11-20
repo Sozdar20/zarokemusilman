@@ -1,0 +1,12 @@
+{
+  "name": "زارۆکێ موسلمان — Zarokê Musilman",
+  "short_name": "زارۆکێ موسلمان",
+  "description": "بەرنامەیێ فێرکاریێ ئیسلامی بۆ زارۆکان ب زمانێ کوردی (بادینی)، سۆرانی، عەرەبی و ئینگلیزی",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "ku",
+  "background_color": "#064e3b",
+  "theme_color": "#059669",
+  "orientation": "portrait-primary"
+}
